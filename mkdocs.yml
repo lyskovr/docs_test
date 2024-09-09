@@ -3,3 +3,12 @@ site_description: Dolunts Projects documentation.
 site_author: Dolunts Team
 
 repo_url: https://github.com/lyskovr/docs_test/
+
+nav:
+- Домашняя страница: docs/index.md
+- Инфо о проекте:
+    - Общая информация: docs/info-ru/introduction.md
+- Программная часть:
+    - Общая информация: docs/software-ru/introduction.md
+- Аппаратная часть:
+    - Общая информация: docs/hardware-ru/introduction.md
