@@ -5,7 +5,7 @@ site_author: Dolunts Team
 repo_url: https://github.com/lyskovr/docs_test/
 
 nav:
-- Домашняя страница: docs/index.md
+- На главную: docs/index.md
 - Инфо о проекте:
     - Общая информация: docs/info-ru/introduction.md
 - Программная часть:
